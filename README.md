@@ -71,7 +71,7 @@ A comprehensive explanation of the AES algorithm is available in the [`Report/AE
 
 ## Result
 
-An example result of AES encryption is available in the [`Result/AES_CS22B1028_Results.jpg`](Result/AES_CS22B1028_Results.jpg) file.
+An example result of AES encryption is available in the [`Result/AES_CS22B1028_Results.png`](Result/AES_CS22B1028_Results.png) file.
 
 ---
 
